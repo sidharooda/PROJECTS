@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-04-11T09:56:45 IST" name="Command line suite" finished-at="2025-04-11T09:57:22 IST" duration-ms="37206">
+    <groups>
+    </groups>
+    <test started-at="2025-04-11T09:56:45 IST" name="Command line test" finished-at="2025-04-11T09:57:22 IST" duration-ms="37206">
+      <class name="fortest.Logintest">
+        <test-method signature="testEnterCredentials()[pri:0, instance:fortest.Logintest@10b3df93]" started-at="2025-04-11T09:56:45 IST" name="testEnterCredentials" finished-at="2025-04-11T09:56:57 IST" duration-ms="12033" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testEnterCredentials -->
+        <test-method signature="testLoginButton()[pri:0, instance:fortest.Logintest@10b3df93]" started-at="2025-04-11T09:56:57 IST" name="testLoginButton" finished-at="2025-04-11T09:57:15 IST" duration-ms="18815" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLoginButton -->
+        <test-method signature="testOpenInstagramPage()[pri:0, instance:fortest.Logintest@10b3df93]" started-at="2025-04-11T09:57:15 IST" name="testOpenInstagramPage" finished-at="2025-04-11T09:57:22 IST" duration-ms="6318" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testOpenInstagramPage -->
+      </class> <!-- fortest.Logintest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
